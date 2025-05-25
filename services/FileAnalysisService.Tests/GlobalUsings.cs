@@ -1,0 +1,10 @@
+global using Xunit;
+global using Moq;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using System;
+global using System.Text;
+global using System.Threading.Tasks;
+global using AntiPlagiarismSystem.Shared.Interfaces;
+global using AntiPlagiarismSystem.Shared.Models;
+global using FileAnalysisService.Services; 
